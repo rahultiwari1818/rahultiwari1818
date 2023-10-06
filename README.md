@@ -7,6 +7,7 @@
 
 
 - 💬 Ask me about **React , Node JS**
+- I'm Interested in Problem Solving.
 
 - 📫 How to reach me **rahultiwari161189@gmail.com**
 
