@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahultiwari1818" alt="rahultiwari1818" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rahultiwari1818.github.io/portfolio/](https://rahultiwari1818.github.io/portfolio/)
 
 - 💬 Ask me about **React , Node JS**
 
