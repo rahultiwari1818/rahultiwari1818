@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahultiwari1818&label=Profile%20views&color=0e75b6&style=flat" alt="rahultiwari1818" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-k972.onrender.com//](https://portfolio-k972.onrender.com/)]
+- 👨‍💻 All of my projects are available at [https://portfolio-k972.onrender.com/](https://portfolio-k972.onrender.com/)]
 
 - 💬 Ask me about **React , Node JS**
 
